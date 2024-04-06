@@ -27,6 +27,6 @@ $("body").terminal(
   {
     greetings:
       greetings.innerHTML +
-      "Hi, my name is Ian and this is a little about me\nHere are the options:\n\n\t*education\n\t*projects\n\t*experience\n\t*skills",
+      "Hi, my name is Ian and this is a little about me\n  Here are the options:\n\n\t*education\n\t*projects\n\t*experience\n\t*skills",
   }
 );
